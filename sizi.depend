@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1478265924 source:c:\users\ÐÇÓî\desktop\c\sizi\main.cpp
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<tchar.h>
+	"connect4.h"
+	"info.h"
+	<ctime>
+	<stdlib.h>
+
+1478181882 source:c:\users\ÐÇÓî\desktop\c\sizi\console.cpp
+	"console.h"
+
+1477117521 c:\users\ÐÇÓî\desktop\c\sizi\console.h
+	<Windows.h>
+	<string>
+	<iostream>
+	<exception>
+
+1477734414 source:c:\users\ÐÇÓî\desktop\c\sizi\paint.cpp
+	<conio.h>
+	"paint.h"
+	"info.h"
+
+1477733531 c:\users\ÐÇÓî\desktop\c\sizi\paint.h
+	"console.h"
+
+1478260202 c:\users\ÐÇÓî\desktop\c\sizi\info.h
+	<cstdlib>
+
+1478265319 c:\users\ÐÇÓî\desktop\c\sizi\connect4.h
+	"console.h"
+
+1478265707 source:c:\users\ÐÇÓî\desktop\c\sizi\connect4.cpp
+	<conio.h>
+	"connect4.h"
+	"info.h"
+
+1478235615 source:c:\users\ÐÇÓî\desktop\c\siziv4.0×÷±×°æ\sizi\connect4.cpp
+	<conio.h>
+	"connect4.h"
+	"info.h"
+
+1478235504 c:\users\ÐÇÓî\desktop\c\siziv4.0×÷±×°æ\sizi\connect4.h
+	"console.h"
+
+1477117521 c:\users\ÐÇÓî\desktop\c\siziv4.0×÷±×°æ\sizi\console.h
+	<Windows.h>
+	<string>
+	<iostream>
+	<exception>
+
+1477483222 c:\users\ÐÇÓî\desktop\c\siziv4.0×÷±×°æ\sizi\info.h
+	<cstdlib>
+
+1478181882 source:c:\users\ÐÇÓî\desktop\c\siziv4.0×÷±×°æ\sizi\console.cpp
+	"console.h"
+
+1478235587 source:c:\users\ÐÇÓî\desktop\c\siziv4.0×÷±×°æ\sizi\main.cpp
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<tchar.h>
+	"connect4.h"
+	"info.h"
+	<ctime>
+
